@@ -50,6 +50,7 @@ This is a solution to the [Recipe-page-main] FrontEndMentor Challenge
 
 ## Author
 
+- [Portfolio](https://wali1209.github.io/personal-portfolio/)
 - Frontend Mentor - [@Wali1209](https://www.frontendmentor.io/profile/Wali1209)
 - GitHUB - [@Wali1209](https://github.com/Wali1209)
 - Facebook - [Wali Hashmi](https://www.facebook.com/mdwali.hashmi.1/)
